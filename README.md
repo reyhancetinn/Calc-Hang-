@@ -21,6 +21,7 @@ Kullanıcı hem harf tahmini yaparak kelimeyi bulmaya çalışır, hem de matema
 ## 📁 Proje Dosyaları
 
 | **oyun.py** | Oyun mekaniklerinin ve tüm işlevlerin yer aldığı ana Python dosyası |
+
 | **README.md** | Proje açıklama dosyası |
 
 ---
