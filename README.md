@@ -37,5 +37,5 @@ Puanlama sistemi doğru harf, doğru işlem ve oyun sonucuna göre güncellenir.
 ---
 
 ## 👤 Geliştirici  
-Bu proje üniversite ödevi kapsamında geliştirilmiştir.
+REYHAN NUR ÇETİN
 
